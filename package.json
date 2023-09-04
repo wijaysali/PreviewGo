@@ -1,0 +1,13 @@
+{
+  "name": "photo-app",
+  "version": "1.0.0",
+  "description": "github.com/asaskevich/govalidator github.com/dgrijalva/jwt-go github.com/gin-gonic/gin github.com/joho/godotenv golang.org/x/crypto gorm.io/driver/postgres gorm.io/gorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec go run main.go --signal SIGTERM"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
